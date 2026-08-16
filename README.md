@@ -1,121 +1,281 @@
 <div align="center">
 
-# Hi there 👋 I'm Fariha Kausar
+# 👋 Hi, I'm Fariha Kausar
 
-### Full Stack MERN Developer | React Native Developer
+### Full Stack Software Engineer | MERN Stack Developer | React Native Developer | Shopify Developer
 
-Building scalable Web Applications, SaaS Platforms, Mobile Apps & Modern User Experiences.
+<p>
+Building scalable Web Applications, Mobile Apps, SaaS Platforms, APIs, and Shopify Solutions with modern technologies.
+</p>
 
-📍 Lahore, Pakistan
+<p>
+📍 Lahore, Pakistan • 🌍 Available for Remote Work
+</p>
 
-[Portfolio](https://fariha-dev.vercel.app) •
-[LinkedIn](https://www.linkedin.com/in/fariha-kausar-6245b822b/) •
-[Medium](https://medium.com/@farihakausar18)
+<p>
+<a href="https://fariha-dev.vercel.app">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/fariha-kausar-6245b822b/">LinkedIn</a> •
+<a href="mailto:hello.farihadev@gmail.com">Email</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 💫 About Me
 
-I'm a passionate Full Stack Developer with experience building modern web and mobile applications.
+I'm a passionate **Full Stack Software Engineer** with **3+ years** of experience building scalable web and mobile applications for startups, agencies, and businesses worldwide.
 
-🚀 I specialize in building scalable SaaS products
+I specialize in designing and developing production-ready applications using the **MERN Stack**, **React Native**, **Next.js**, **Node.js**, and **Shopify**.
 
-📱 React Native Mobile Apps
-
-⚛️ React & Next.js Applications
-
-🟢 Node.js APIs & Express
-
-🍃 MongoDB Databases
-
-☁️ Firebase Integrations
-
-💳 Payment Gateway Integration
-
-🔐 Authentication & Security
-
-📈 Dashboard & CRM Development
-
-💡 Clean UI/UX with Tailwind CSS
+From idea to deployment, I help clients transform concepts into high-quality digital products with clean architecture, maintainable code, and exceptional user experiences.
 
 ---
 
-# 🚀 Currently Working On
+## 🚀 What I Do
 
-• Enterprise SaaS Applications
-
-• Mobile Apps (Android & iOS)
-
-• AI Powered Web Applications
-
-• CRM & Admin Panels
-
-• Business Automation Platforms
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+- 💻 Full Stack MERN Development
+- 📱 React Native Mobile Apps
+- 🌐 Next.js & React Applications
+- ⚙️ Node.js & Express APIs
+- 🛒 Shopify Development
+- ☁️ Cloud Deployment
+- 🔥 Firebase & Supabase
+- 🗄 Database Design
+- 📊 Admin Dashboards
+- 🏢 SaaS Platforms
+- 🤖 AI Powered Applications
+- 💳 Payment Gateway Integration
+- 🔐 Authentication Systems
+- 📡 REST & GraphQL APIs
 
 ---
 
-## Frontend
+# 🛠 Tech Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+## 💻 Languages
 
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+<p>
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs" />
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+</p>
 
 ---
 
-## Backend
+## 🎨 Frontend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p>
 
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux,materialui" />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+</p>
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+**Skills**
 
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+- React.js
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap 5
+- Material UI
+- Responsive Design
+- PSD to HTML
+- Figma to React
+- Component-Based Architecture
 
 ---
 
-## Tools
+## 📱 Mobile Development
 
-Git
+<p>
 
-GitHub
+<img src="https://skillicons.dev/icons?i=react,firebase,androidstudio" />
 
-VS Code
+</p>
 
-Postman
+- React Native
+- Expo
+- Android
+- iOS
+- Hybrid Mobile Apps
+- Push Notifications
+- Deep Linking
+- Offline Storage
+- App Store Deployment
+- Google Play Console
+- Apple App Store Connect
+- Mobile UI/UX
 
-Figma
+---
 
-Android Studio
+## ⚙ Backend
 
-Xcode
+<p>
 
-Vercel
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
 
-Render
+</p>
 
-Netlify
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
+- JWT Authentication
+- OAuth
+- Firebase Authentication
+- CRUD APIs
+- Real-time APIs
+- Payment Integrations
+
+---
+
+## 🗄 Databases
+
+- MongoDB
+- PostgreSQL
+- SQL
+- Firebase Firestore
+- Firebase Realtime Database
+- Supabase
+- Local Storage
+- Async Storage
+
+---
+
+## ☁ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,githubactions,git" />
+
+</p>
+
+- AWS
+- Google Cloud Platform
+- Vercel
+- Netlify
+- Render
+- GitHub Actions
+- Jenkins
+- CircleCI
+- CI/CD Pipelines
+
+---
+
+## 🛒 Shopify
+
+- Shopify Themes
+- Shopify Apps
+- Shopify Liquid
+- Shopify API
+- Shopify Store Development
+- Shopify Integrations
+
+---
+
+## 🔥 State Management
+
+- Redux
+- Redux Toolkit
+- Redux Thunk
+- Zustand
+- React Query
+- React Context API
+
+---
+
+## 🌐 APIs & Integrations
+
+- REST API
+- GraphQL
+- Axios
+- Fetch API
+- Google Maps API
+- Firebase APIs
+- Payment Gateway Integration
+- Third-party API Integration
+- Webhooks
+
+---
+
+## 🤖 AI
+
+- AI Integration
+- AI APIs
+- Prompt Engineering
+- Image Processing
+- PDF Generation
+
+---
+
+## 🛠 Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,yarn" />
+
+</p>
+
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Xcode
+- Postman
+- Figma
+- npm
+- Yarn
+- Expo CLI
+
+---
+
+# 🚀 Services
+
+- MERN Stack Development
+- React Development
+- Next.js Development
+- React Native Development
+- Mobile App Development
+- API Development
+- Backend Development
+- Shopify Development
+- SaaS Development
+- CRM Development
+- Dashboard Development
+- Firebase Integration
+- Payment Integration
+- Authentication Systems
+- Cloud Deployment
+
+---
+
+# 💼 Featured Projects
+
+📱 Social Networking Apps
+
+🚚 Logistics Platforms
+
+🍽 Restaurant Management Systems
+
+🏫 Attendance Management Systems
+
+🚗 Roadside Assistance Platforms
+
+🤖 AI Powered Applications
+
+📦 Shipping & Delivery Platforms
+
+🛍 Shopify Stores
+
+🏢 SaaS Platforms
+
+📊 CRM & Admin Dashboards
 
 ---
 
@@ -129,35 +289,51 @@ Netlify
 
 ---
 
-# 🔥 Featured Skills
+# 🏆 Core Skills
 
-✅ Full Stack Development
+✔ Full Stack Development
 
-✅ MERN Stack
+✔ MERN Stack
 
-✅ React Native
+✔ React Native
 
-✅ REST APIs
+✔ Next.js
 
-✅ Firebase
+✔ Node.js
 
-✅ Authentication
+✔ Express.js
 
-✅ SaaS Development
+✔ MongoDB
 
-✅ Dashboard Development
+✔ PostgreSQL
 
-✅ CRM Systems
+✔ Firebase
 
-✅ Responsive UI
+✔ Supabase
 
-✅ Mobile Applications
+✔ REST APIs
 
-✅ Deployment
+✔ GraphQL
+
+✔ Authentication
+
+✔ AI Integration
+
+✔ Shopify
+
+✔ SaaS Platforms
+
+✔ CRM Development
+
+✔ Admin Dashboards
+
+✔ Cloud Deployment
+
+✔ Responsive Design
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Let's Connect
 
 🌍 Portfolio
 
@@ -167,14 +343,22 @@ https://fariha-dev.vercel.app
 
 https://www.linkedin.com/in/fariha-kausar-6245b822b/
 
-📝 Medium
+📧 Email
 
-https://medium.com/@farihakausar18
+hello.farihadev@gmail.com
 
-🐦 X
+📱 WhatsApp
 
-https://x.com/farihadev
++92 347 4188348
+
+📍 Lahore, Pakistan
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Turning ideas into scalable digital products."*
+
+</div>
