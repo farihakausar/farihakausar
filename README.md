@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Fariha Kausar
 
-### Full Stack MERN Developer | React Native Developer | Founder @ Xpert Prime
+### Full Stack MERN Developer | React Native Developer
 
 Building scalable Web Applications, SaaS Platforms, Mobile Apps & Modern User Experiences.
 
