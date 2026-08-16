@@ -281,11 +281,11 @@ From idea to deployment, I help clients transform concepts into high-quality dig
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api?username=farihakausar&show_icons=true&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=farihakausar&theme=github-dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farihakausar&layout=compact&theme=github_dark)
 
 ---
 
