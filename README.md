@@ -9,9 +9,15 @@ Building scalable Web Applications, Mobile Apps, SaaS Platforms, APIs, and Shopi
 </p>
 
 <p>
-📍 Lahore, Pakistan • 🌍 Open to Remote Roles, Freelance Projects, Startup Collaborations, and Full-Time Opportunities Across the Globe.
+📍 Lahore, Pakistan 
 </p>
+## 🤝 Open to Work
 
+- 🌍 Open to Remote Opportunities Worldwide
+- 💼 Available for Full-Time, Freelance & Contract Roles
+- 🚀 Passionate about building scalable web and mobile applications
+- 🤝 Happy to collaborate with startups, agencies, and growing businesses
+- 📩 Feel free to reach out if you're looking for a reliable Full Stack Developer
 <p>
 <a href="https://fariha-dev.vercel.app">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/fariha-kausar-6245b822b/">LinkedIn</a> •
