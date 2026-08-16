@@ -46,7 +46,6 @@ Building scalable Web Applications, Mobile Apps, SaaS Platforms, APIs, and Shopi
 
 ---
 
-
 # 💫 About Me
 
 I'm a passionate **Full Stack Software Engineer** with **3+ years** of experience building scalable web and mobile applications for startups, agencies, and businesses worldwide.
@@ -78,183 +77,101 @@ From idea to deployment, I help clients transform concepts into high-quality dig
 
 # 🛠 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs" />
-
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
----
-
-## 🎨 Frontend
+### ⚛️ Frameworks & Libraries
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux,materialui" />
-
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-**Skills**
-
-- React.js
-- Next.js
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap 5
-- Material UI
-- Responsive Design
-- PSD to HTML
-- Figma to React
-- Component-Based Architecture
-
----
-
-## 📱 Mobile Development
+### 📱 Mobile Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,firebase,androidstudio" />
-
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" />
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
-- React Native
-- Expo
-- Android
-- iOS
-- Hybrid Mobile Apps
-- Push Notifications
-- Deep Linking
-- Offline Storage
-- App Store Deployment
-- Google Play Console
-- Apple App Store Connect
-- Mobile UI/UX
-
----
-
-## ⚙ Backend
+### 🤖 AI / ML
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase,supabase" />
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
 </p>
 
-- Node.js
-- Express.js
-- REST APIs
-- GraphQL
-- JWT Authentication
-- OAuth
-- Firebase Authentication
-- CRUD APIs
-- Real-time APIs
-- Payment Integrations
-
----
-
-## 🗄 Databases
-
-- MongoDB
-- PostgreSQL
-- SQL
-- Firebase Firestore
-- Firebase Realtime Database
-- Supabase
-- Local Storage
-- Async Storage
-
----
-
-## ☁ Cloud & DevOps
+### 🔥 State & Data
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify,githubactions,git" />
-
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" />
 </p>
 
-- AWS
-- Google Cloud Platform
-- Vercel
-- Netlify
-- Render
-- GitHub Actions
-- Jenkins
-- CircleCI
-- CI/CD Pipelines
-
----
-
-## 🛒 Shopify
-
-- Shopify Themes
-- Shopify Apps
-- Shopify Liquid
-- Shopify API
-- Shopify Store Development
-- Shopify Integrations
-
----
-
-## 🔥 State Management
-
-- Redux
-- Redux Toolkit
-- Redux Thunk
-- Zustand
-- React Query
-- React Context API
-
----
-
-## 🌐 APIs & Integrations
-
-- REST API
-- GraphQL
-- Axios
-- Fetch API
-- Google Maps API
-- Firebase APIs
-- Payment Gateway Integration
-- Third-party API Integration
-- Webhooks
-
----
-
-## 🤖 AI
-
-- AI Integration
-- AI APIs
-- Prompt Engineering
-- Image Processing
-- PDF Generation
-
----
-
-## 🛠 Developer Tools
+### 🌐 APIs & Backend Services
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,yarn" />
-
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
 </p>
 
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Xcode
-- Postman
-- Figma
-- npm
-- Yarn
-- Expo CLI
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### 🛒 Shopify
+
+<p>
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Liquid-67C8C8?style=flat-square&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify_API-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+</p>
+
+### 🛠 Developer Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
+</p>
 
 ---
 
@@ -301,7 +218,6 @@ From idea to deployment, I help clients transform concepts into high-quality dig
 📊 CRM & Admin Dashboards
 
 ---
-
 
 # 🏆 Core Skills
 
