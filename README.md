@@ -9,7 +9,7 @@ Building scalable Web Applications, Mobile Apps, SaaS Platforms, APIs, and Shopi
 </p>
 
 <p>
-📍 Lahore, Pakistan • 🌍 Available for Remote Work
+📍 Lahore, Pakistan • 🌍 Open to Remote Roles, Freelance Projects, Startup Collaborations, and Full-Time Opportunities Across the Globe.
 </p>
 
 <p>
